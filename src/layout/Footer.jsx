@@ -38,7 +38,7 @@ const Footer = () => {
             <li><Link to="/services/networking" className="hover:text-cyan-400">Networking & Server</Link></li>
             <li><Link to="/services/camera" className="hover:text-cyan-400">Camera & Surveillance</Link></li>
             <li><Link to="/services/survey" className="hover:text-cyan-400">Survey & Property</Link></li>
-            <li><Link to="/services/pipeline" className="hover:text-cyan-400">Pipeline Solutions</Link></li>
+            <li><Link to="/services/pipeline" className="hover:text-cyan-400">Pipeline</Link></li>
           </ul>
         </div>
 

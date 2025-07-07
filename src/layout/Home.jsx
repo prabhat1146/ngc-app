@@ -33,12 +33,12 @@ const Home = () => {
         <h2 className="text-3xl font-bold text-center mb-12">Our Services</h2>
         <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto">
           {[
-            { title: "Networking", desc: "LAN/WAN design, network setup, firewall security", link: "/services/networking" },
+            { title: "Networking", desc: "LAN/WAN, network setup, firewall security", link: "/services/networking" },
             { title: "IT Services", desc: "IT consulting, server maintenance, software solutions", link: "/services/it" },
             { title: "Hardware Solutions", desc: "PCs, laptops, custom builds, repair & AMC", link: "/services/hardware" },
             { title: "Surveillance", desc: "Camera installations, remote monitoring, DVR solutions", link: "/services/security" },
             { title: "Survey & GIS", desc: "Land surveys, route mapping, GIS integrations", link: "/services/survey" },
-            { title: "Pipeline", desc: "Pipeline layout, property planning & monitoring", link: "/services/pipeline" },
+            { title: "Pipeline", desc: "Pipeline, laying, ", link: "/services/pipeline" },
           ].map((service) => (
             <div key={service.title} className="bg-white p-6 rounded shadow-md hover:shadow-lg transition">
               <h3 className="text-xl font-semibold mb-2">{service.title}</h3>
