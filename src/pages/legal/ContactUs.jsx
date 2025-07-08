@@ -61,15 +61,18 @@ const ContactUs = () => {
           <h2 className="text-2xl font-semibold text-cyan-700 mb-4">Head Office</h2>
           <p>
             <strong>Nirmala Global Corporate IT Solutions Pvt. Ltd.</strong><br />
-            123, ABC Complex, Main Road<br />
-            Darbhanga, Bihar – 846004<br />
+            Plot No. 25 Kh.No.390,<br />
+            Nandi Vihar Sarain Sekh Chinhat,<br />
+            VTC: Lucknow, PO: Chinhat,<br />
+            District: Lucknow, State: Uttar Pradesh,<br />
+            PIN Code: 226028, Mobile: 7784093662,<br />
             India
           </p>
 
           <p>
-            <strong>Phone:</strong> +91 98765 43210
+            <strong>Phone:</strong> +91 7784093662
             <br />
-            <strong>Email:</strong> info@nirmalaglobal.com
+            <strong>Email:</strong> info@ngcitsolutions.com
           </p>
 
           <p>
